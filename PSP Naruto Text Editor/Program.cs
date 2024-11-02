@@ -4,7 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace NT_EDITOR
+namespace PSP Naruto Text Editor
+
 {
     static class Program
     {
