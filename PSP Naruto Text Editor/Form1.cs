@@ -9,7 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 
-namespace NT_EDITOR
+namespace PSP Naruto Text Editor
+
 {
     public partial class Form1 : Form
     {
