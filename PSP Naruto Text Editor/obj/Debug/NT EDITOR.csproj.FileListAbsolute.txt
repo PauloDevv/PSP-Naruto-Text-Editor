@@ -1,0 +1,10 @@
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\bin\Debug\NT EDITOR.exe.config
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\bin\Debug\NT EDITOR.exe
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\bin\Debug\NT EDITOR.pdb
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\obj\Debug\NT EDITOR.csprojResolveAssemblyReference.cache
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\obj\Debug\NT_EDITOR.Form1.resources
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\obj\Debug\NT_EDITOR.Properties.Resources.resources
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\obj\Debug\NT EDITOR.csproj.GenerateResource.Cache
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\obj\Debug\NT EDITOR.exe
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\obj\Debug\NT EDITOR.pdb
+c:\users\pedro\onedrive\documentos\visual studio 2012\Projects\NT EDITOR\NT EDITOR\obj\Debug\NT_EDITOR.edit.resources
